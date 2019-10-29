@@ -18,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/admin/kotlinvideorecyclerview/viewmodel/CategoryViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/admin/kotlinvideorecyclerview/viewmodel/CategoryViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/user.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="28" />
+            <state relative-caret-position="211">
+              <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
@@ -110,6 +111,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/kotlinvideorecyclerview/viewmodel/CategoryViewModel.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml" />
       </list>
     </option>
   </component>
@@ -311,7 +313,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Run" weight="0.32863188" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
@@ -373,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="28" />
+        <state relative-caret-position="211">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />

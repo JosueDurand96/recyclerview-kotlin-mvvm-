@@ -37,12 +37,21 @@ class CategoryViewModel : ViewModel {
 
         val category1 = Category("1", "Josue Durand", "primero", "image1.png")
         val category2 = Category("2", "Josue Durand", "segundo", "image1.png")
-        val category3 = Category("2", "Josue Durand", "segundo", "image1.png")
+        val category3 = Category("3", "Josue Durand", "segundo", "image1.png")
 
         val categoryviewmodel1: CategoryViewModel = CategoryViewModel(category1)
         val categoryviewmodel2: CategoryViewModel = CategoryViewModel(category2)
         val categoryviewmodel3: CategoryViewModel = CategoryViewModel(category3)
 
+        arraylist!!.add(categoryviewmodel1)
+        arraylist!!.add(categoryviewmodel2)
+        arraylist!!.add(categoryviewmodel3)
+        arraylist!!.add(categoryviewmodel1)
+        arraylist!!.add(categoryviewmodel2)
+        arraylist!!.add(categoryviewmodel3)
+        arraylist!!.add(categoryviewmodel1)
+        arraylist!!.add(categoryviewmodel2)
+        arraylist!!.add(categoryviewmodel3)
         arraylist!!.add(categoryviewmodel1)
         arraylist!!.add(categoryviewmodel2)
         arraylist!!.add(categoryviewmodel3)
